@@ -4,7 +4,7 @@
 
 The FOODEEG dataset comprises of human electroencephalographic (EEG) and behavioural responses to food images for 117 participants. This repository contains raw and processed EEG recordings collected during a food categorisation task and behavioural responses collected during a food go/no-go task and a food paired choice task.
 
-More information, including custom code, food image stimuli, normative ratings, and questionnaire data, can be found via the Open Science Framework (doi.org/10.17605/OSF.IO/Y9PMF/).
+More information, including custom code, food image stimuli, normative ratings, and questionnaire data, can be found via the Open Science Framework (https://osf.io/y9pmf/).
 
 ## Experiment details
 
@@ -20,7 +20,7 @@ Separately, normative ratings on the food image stimuli were collected from onli
 
 For more details about the dataset please see the corresponding paper:
 
-Chae, V. J., Grootswagers, T., Bode, S., & Feuerriegel, D. (2025). FOODEEG: An open dataset of human electroencephalographic and behavioural responses to food images (p. 2025.11.07.687287). bioRxiv. https://doi.org/10.1101/2025.11.07.687287
+[preprint ref]
 
 ## Main files
 
@@ -38,4 +38,4 @@ At the end of Session 1, participants rated each food image on healthiness, tast
 
 Separately from online samples (total N = 624), we collected continuous ratings (0-100) for the food images on 22 food attributes, including nutritive properties (healthiness, calorie content, edibility, and level of transformation), hedonic properties (tastiness, willingness to eat, negative and positive valence, and arousal), taste properties (sweetness, saltiness, sourness, bitterness, and savouriness), familiarity (previous exposure, recognisability, and typicality), and elicited emotions (happiness, surprise, disgust, craving, and guilt).
 
-Questionnaire responses and continuous rating data can be found via the Open Science Framework (doi.org/10.17605/OSF.IO/Y9PMF/).
+Questionnaire responses and continuous rating data can be found via the Open Science Framework (https://osf.io/y9pmf/).
